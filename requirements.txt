@@ -1,0 +1,7 @@
+transformers
+sklearn
+torch
+pytorch_lightning==1.4.9
+numpy
+datasets
+vncorenlp
